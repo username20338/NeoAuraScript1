@@ -1,6 +1,3 @@
-Claro, Carlos! Aqui está o `loadstring` com o script completo do **NeoAura** incorporado:
-
-```lua
 loadstring([[
 --==[ NeoAura Script by Carlos ]==--
 
@@ -161,4 +158,7 @@ makeBtn("Mudar Modo", 50, function()
 	local modes = {"Ring", "Flor", "SickleStar", "WitherStorm"}
 	for i, v in ipairs(modes) do
 		if v == mode then
-			mode = 
+			mode =
+::contentReference[oaicite:0]{index=0}
+ 
+
